@@ -44,9 +44,11 @@ BlogHub fixes that. It gives you a clean space to write, organize your blogs by 
 
 ## 🎬 Demo
 
-> 📺 **[Watch the Demo Video](#)** — A 2-minute walkthrough of the full app
+> 📺 **[Watch the Demo Video](#)** — A 1-minute walkthrough of the full app
 
-*(Demo video coming soon — screen recording of key features)*
+
+https://github.com/user-attachments/assets/69c4bf32-f7af-4ef7-bd40-f2193c90f2e6
+
 
 ---
 
